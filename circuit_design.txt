@@ -32,3 +32,13 @@ LM2941S : https://eu.mouser.com/ProductDetail/Texas-Instruments/LM2941S-NOPB?qs=
 
 4.2 V lipo Battery
 charge battery protection : https://eu.mouser.com/ProductDetail/Texas-Instruments/BQ29701DSET?qs=7z%252BmIopC6%2FIHnlJi4gD%2FLg%3D%3D
+
+
+
+ESP32 datasheet: https://www.espressif.com/en/products/devkits
+https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+ESP32 reference schematic: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
+
+
+ESP32 S series : https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html
+ESP32 S series schema: https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DEVKITM-1_V1_20210310A.pdf
