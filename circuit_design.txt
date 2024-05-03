@@ -35,10 +35,9 @@ charge battery protection : https://eu.mouser.com/ProductDetail/Texas-Instrument
 
 
 
-ESP32 datasheet: https://www.espressif.com/en/products/devkits
-https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32 reference schematic: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
-
+ESP32 WEbsite : https://www.espressif.com/en/products/devkits
+1) ESP32 datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+2) ESP32 reference schematic 1: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
 
 ESP32 S series : https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html
-ESP32 S series schema: https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DEVKITM-1_V1_20210310A.pdf
+3) ESP32 S2 module reference schema: https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DEVKITM-1_V1_20210310A.pdf
