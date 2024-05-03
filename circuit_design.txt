@@ -1,0 +1,34 @@
+really small unit which measures temperature on its bottom. Preferably smd sized. ( 0 to at least 200°C. )
+MAX 6675 IC  chip: https://eu.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX6675ISA%2bT?qs=1THa7WoU59FV%2FT3S8QjZ%252Bg%3D%3D
+MAX 6675 IC : https://eu.mouser.com/ProductDetail/Olimex-Ltd/MOD-TC?qs=rR6Ke2evSQWtVSD7KPZtzQ%3D%3D
+
+send them to a pc via low energy Bluetooth or maybe wifi 
+(ESP32.... check data sheet)
+use system on chip module coz of easier interagration.
+https://microcontrollerslab.com/k-type-thermocouple-max6675-amplifier-esp32/
+
+
+can’t have cables running to it for a power supply and has to be running for years.
+power supply it could either use a small battery and ble 
+very small solar panel
+3.7 lipo battery
+
+
+
+CODE
+PC/Wifi/Bluetooth device every 10 minutes
+ 
+
+
+USB to UART is the best
+CP2 102 (USB to UART bridg or converter)
+
+
+
+battey protection (LDO load dropout regulator)
+SPX3819M5-L-1-2/TR : https://eu.mouser.com/ProductDetail/MaxLinear/SPX3819M5-L-3-3-TR?qs=S%2FCBhQS5rCp1Bb7a%252BD%2FCBQ%3D%3D
+LM2941S : https://eu.mouser.com/ProductDetail/Texas-Instruments/LM2941S-NOPB?qs=X1J7HmVL2ZFTQBDJ5GpX8w%3D%3D
+
+
+4.2 V lipo Battery
+charge battery protection : https://eu.mouser.com/ProductDetail/Texas-Instruments/BQ29701DSET?qs=7z%252BmIopC6%2FIHnlJi4gD%2FLg%3D%3D
