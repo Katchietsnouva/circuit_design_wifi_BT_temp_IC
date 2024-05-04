@@ -95,3 +95,12 @@ Mfr. Part # --- PTS645SH50SMTR92LFS
 LCSC Part # --- C221869
 Package --- SMD,6x6mm
 Description --- 6mm 5mm Round Button 50mA Brick nogging 6mm SPST 200gf 12V SMD,6x6mm Tactile Switches ROHS
+
+
+Capacitors 100nF (0402 small footpriny) (Multilayer Ceramic Capacitors MLCC - SMD/SMT)
+C1525 : https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.html
+Manufacturer --- Samsung Electro-Mechanics
+Mfr. Part # --- CL05B104KO5NNNC
+LCSC Part # --- C1525
+Package --- 0402
+Description --- 16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
