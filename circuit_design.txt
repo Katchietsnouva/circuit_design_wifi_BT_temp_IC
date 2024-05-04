@@ -147,3 +147,11 @@ Resistor 10 kilo ohm UNI-ROYAL
 
 Resistor 47.5 kilo ohm UNI-ROYAL
 0402WGF4752TCE
+
+Resistor 1 kilo ohm UNI-ROYAL
+0402WGF1001TCE
+
+Resistor 5.1 kilo ohm UNI-ROYAL
+0402WGF5101TCE
+Description --- the design says 2k but we will use 5.1k from experience as we dont want to much curreny in the LESD5D5
+
