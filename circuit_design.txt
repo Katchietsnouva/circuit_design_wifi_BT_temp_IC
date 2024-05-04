@@ -171,3 +171,10 @@ Description --- the design says 2k but we will use 5.1k from experience as we do
 Green LED 
 0805g
 
+
+Jumper (3 pin)
+Manufacturer --- Ckmtw(Shenzhen Cankemeng)
+Mfr. Part # --- B-2101S03P-A110
+LCSC Part # --- C124354
+Package --- Plugin,P=1.27mm
+Description --- Straight 1mm 3P 3mm -40℃~+105℃ 1.8mm 1.27mm Plugin Black Brass 1x3P Plugin,P=1.27mm Pin Headers ROHS
