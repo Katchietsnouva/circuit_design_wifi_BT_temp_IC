@@ -120,3 +120,21 @@ Mfr. Part # --- CL05A106MP5NUNC
 LCSC Part # --- C315248
 Package --- 0402
 Description --- 10V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+
+Capacitors 4.7 uF (0402 small footprint) (Multilayer Ceramic Capacitors MLCC - SMD/SMT)
+C368809 : https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html
+Manufacturer --- Samsung Electro-Mechanics
+Mfr. Part # --- CL05A475KP5NRNC
+LCSC Part # --- C368809
+Package --- 0402
+Description --- 10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+
+
+Resistor 0 ohm UNI-ROYAL
+C17168 : https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.html
+Manufacturer --- UNI-ROYAL(Uniroyal Elec)
+Mfr. Part # --- 0402WGF0000TCE
+LCSC Part # --- C17168
+Package --- 0402
+Description --- 62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
