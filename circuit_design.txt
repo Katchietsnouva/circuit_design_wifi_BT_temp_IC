@@ -8,8 +8,8 @@ IO 37 and 38 arent used
 IO 36 is sensor VP
 IO 39 is sensor VN
 
-Pin 34 is RXD0
-Pin 35 is TXD0
+Pin 34 is RXD0 (GPIO 3 from the data sheet)
+Pin 35 is TXD0 (GPIO 1 from the data sheet)
 
 really small unit which measures temperature on its bottom. Preferably smd sized. ( 0 to at least 200°C. )
 MAX 6675 IC  chip: https://eu.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX6675ISA%2bT?qs=1THa7WoU59FV%2FT3S8QjZ%252Bg%3D%3D
