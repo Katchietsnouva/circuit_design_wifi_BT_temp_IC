@@ -68,3 +68,7 @@ Mfr. Part # --- 1050171001
 LCSC Part # --- C505111
 Package --- SMD
 Description --- USB 2.0 1 Surface Mount，Right Angle 5P Female -30℃~+85℃ Micro-B SMD USB Connectors ROHS
+
+
+protection Diode
+LESD5D5.0CT1G
