@@ -155,3 +155,6 @@ Resistor 5.1 kilo ohm UNI-ROYAL
 0402WGF5101TCE
 Description --- the design says 2k but we will use 5.1k from experience as we dont want to much curreny in the LESD5D5
 
+Green LED 
+0805g
+
