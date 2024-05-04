@@ -1,3 +1,14 @@
+we start at IO 0
+IO 1, 3 arent used
+IO 6 is TXD0
+IO 7 is RXD0
+
+IO 20, 24 isnt used
+last IO is 27, then we jump to 32
+IO 37 and 38 arent used
+IO 36 is sensor VP
+IO 39 is sensor VN
+
 really small unit which measures temperature on its bottom. Preferably smd sized. ( 0 to at least 200°C. )
 MAX 6675 IC  chip: https://eu.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX6675ISA%2bT?qs=1THa7WoU59FV%2FT3S8QjZ%252Bg%3D%3D
 MAX 6675 IC : https://eu.mouser.com/ProductDetail/Olimex-Ltd/MOD-TC?qs=rR6Ke2evSQWtVSD7KPZtzQ%3D%3D
