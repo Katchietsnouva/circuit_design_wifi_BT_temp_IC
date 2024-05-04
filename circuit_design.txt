@@ -41,3 +41,30 @@ ESP32 WEbsite : https://www.espressif.com/en/products/devkits
 
 ESP32 S series : https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitm-1.html
 3) ESP32 S2 module reference schema: https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DEVKITM-1_V1_20210310A.pdf
+
+Manufacturer ----Espressif Systems
+Mfr. Part # ----ESP32-WROOM-32E-N8
+LCSC Part # ----C701342
+Package ----SMD,18x25.5mm
+
+
+ESP32 components
+Micro USB  5V&USB-UART (Communication Interface Chip/USB Converters USB to UART)
+CP2102N-A02-GQFN28 : https://www.lcsc.com/product-detail/USB-Converters_SKYWORKS-SILICON-LABS-CP2102N-A02-GQFN28R_C964632.html
+LCSC Part # ---- C964632
+
+Voltage regulator   
+AMS1117-3.3 : https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_YONGYUTAI-AMS1117-3-3_C2904742.html
+Manufacturer --- YONGYUTAI
+Mfr. Part # --- AMS1117-3.3
+LCSC Part # --- C2904742
+Package --- SOT-89-3
+Description --- 75dB@(120Hz) 1A Fixed 3.3V Positive electrode 20V SOT-89-3 Linear Voltage Regulators (LDO) ROHS
+
+USB Connectors
+C505111 : https://www.lcsc.com/product-detail/span-style-background-color-ff0-USB-span-Connectors_MOLEX-1050171001_C505111.html
+Manufacturer --- MOLEX
+Mfr. Part # --- 1050171001
+LCSC Part # --- C505111
+Package --- SMD
+Description --- USB 2.0 1 Surface Mount，Right Angle 5P Female -30℃~+85℃ Micro-B SMD USB Connectors ROHS
