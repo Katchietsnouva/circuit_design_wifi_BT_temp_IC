@@ -71,4 +71,9 @@ Description --- USB 2.0 1 Surface Mount，Right Angle 5P Female -30℃~+85℃ Mi
 
 
 protection Diode
-LESD5D5.0CT1G
+LESD5D5.0CT1G : https://www.lcsc.com/product-detail/span-style-background-color-ff0-USB-span-Connectors_MOLEX-1051640001_C234179.html
+Manufacturer --- LRC
+Mfr. Part # --- LESD5D5.0CT1G
+LCSC Part # --- C383211
+Package --- SOD-523
+Description --- 9.4A 18.6V 5.6V Bi-Directional 5V SOD-523 Electrostatic and Surge Protection (TVS/ESD) ROHS
