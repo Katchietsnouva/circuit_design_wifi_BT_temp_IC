@@ -138,3 +138,9 @@ Mfr. Part # --- 0402WGF0000TCE
 LCSC Part # --- C17168
 Package --- 0402
 Description --- 62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+
+Resistor 22.1 kilo ohm UNI-ROYAL
+0402WGF2212TCE
+
+Resistor 10 kilo ohm UNI-ROYAL
+0402WGF1002TCE
