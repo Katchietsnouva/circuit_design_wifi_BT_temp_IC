@@ -87,5 +87,11 @@ LCSC Part # --- C164885
 Package --- SOT-23
 Description --- 25V 300mW 200@100mA,1V 1.5A NPN SOT-23 Bipolar Transistors - BJT ROHS
 
+
 Buttons (Tactile switches C&K 6x6.6mm Plugin)
--330x330DIPDIP,12x12mmDIP,7.2x7.2mmPluginPlugin,10x10mmPlugin,12x12mmPlugin,12x13mmPlugin,12x14mmPlugin,12x15mmPlugin,12x16mmPlugin,12x17mmPlugin,12x18mmPlugin,3.5x6mmPlugin,3.5x7mmPlugin,3.6x7.8mmPlugin,3.9x6mmPlugin,3x6mmPlugin,4.5x4.5mmPlugin,4.5x5.5x10mmPlugin,6.1x3.5mmPlugin,6.1x3.6mmPlugin,6.1x6.1mmPlugin,6.2x6.2mmPlugin,6.2x6.3mmPlugin,6.2x7.4mmPlugin,6.2x7.5mmPlugin,6.4x6.5mmPlugin,6.4x7.2mmPlugin,6.6x7.1mmPlugin,6x6.1mmPlugin,6x6.2mmPlugin,6x6.4mmPlugin,,6x6mm
+C221869 : https://www.lcsc.com/product-detail/Tactile-Switches_C-K-PTS645SH50SMTR92LFS_C221869.html
+Manufacturer --- C&K
+Mfr. Part # --- PTS645SH50SMTR92LFS
+LCSC Part # --- C221869
+Package --- SMD,6x6mm
+Description --- 6mm 5mm Round Button 50mA Brick nogging 6mm SPST 200gf 12V SMD,6x6mm Tactile Switches ROHS
