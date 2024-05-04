@@ -144,3 +144,6 @@ Resistor 22.1 kilo ohm UNI-ROYAL
 
 Resistor 10 kilo ohm UNI-ROYAL
 0402WGF1002TCE
+
+Resistor 47.5 kilo ohm UNI-ROYAL
+0402WGF4752TCE
