@@ -77,3 +77,15 @@ Mfr. Part # --- LESD5D5.0CT1G
 LCSC Part # --- C383211
 Package --- SOD-523
 Description --- 9.4A 18.6V 5.6V Bi-Directional 5V SOD-523 Electrostatic and Surge Protection (TVS/ESD) ROHS
+
+
+Transistors
+SS8050-G : https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_Jiangsu-Changjing-Electronics-Technology-Co-Ltd-SS8050-G-RANGE-200-350_C164885.html
+Manufacturer --- Jiangsu Changjing Electronics Technology Co., Ltd.
+Mfr. Part # --- SS8050-G(RANGE:200-350)
+LCSC Part # --- C164885
+Package --- SOT-23
+Description --- 25V 300mW 200@100mA,1V 1.5A NPN SOT-23 Bipolar Transistors - BJT ROHS
+
+Buttons (Tactile switches C&K 6x6.6mm Plugin)
+-330x330DIPDIP,12x12mmDIP,7.2x7.2mmPluginPlugin,10x10mmPlugin,12x12mmPlugin,12x13mmPlugin,12x14mmPlugin,12x15mmPlugin,12x16mmPlugin,12x17mmPlugin,12x18mmPlugin,3.5x6mmPlugin,3.5x7mmPlugin,3.6x7.8mmPlugin,3.9x6mmPlugin,3x6mmPlugin,4.5x4.5mmPlugin,4.5x5.5x10mmPlugin,6.1x3.5mmPlugin,6.1x3.6mmPlugin,6.1x6.1mmPlugin,6.2x6.2mmPlugin,6.2x6.3mmPlugin,6.2x7.4mmPlugin,6.2x7.5mmPlugin,6.4x6.5mmPlugin,6.4x7.2mmPlugin,6.6x7.1mmPlugin,6x6.1mmPlugin,6x6.2mmPlugin,6x6.4mmPlugin,,6x6mm
