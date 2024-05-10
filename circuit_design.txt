@@ -183,3 +183,9 @@ Description --- Straight 1mm 3P 3mm -40℃~+105℃ 1.8mm 1.27mm Plugin Black Bra
 USB to UART chip
 cp2102n errata
 CP2102N is a protocol library that is used for USB communications between between microcontrollers and computers. It is commonly used in embedded systems applications, particularly in those involving programming, debugging, and testing microcontrollers and firmware. The "errata" refers to a document that contains corrections or error messages related to the library's version, typically released by the manufacturer or community to help users fix issues and improve their experience.
+
+2N7002T-7-F Transistor
+A very important error correction chip in the emebedded system to computer communication
+
+
+C2935942 chip
