@@ -18,7 +18,7 @@ MAX 6675 IC : https://eu.mouser.com/ProductDetail/Olimex-Ltd/MOD-TC?qs=rR6Ke2evS
 send them to a pc via low energy Bluetooth or maybe wifi 
 (ESP32.... check data sheet)
 use system on chip module coz of easier interagration.
-https://microcontrollerslab.com/k-type-thermocouple-max6675-amplifier-esp32/
+https://microcontrollerslab.com/r-max6675-amplifier-esp32/
 
 
 can’t have cables running to it for a power supply and has to be running for years.
@@ -178,3 +178,10 @@ Mfr. Part # --- B-2101S03P-A110
 LCSC Part # --- C124354
 Package --- Plugin,P=1.27mm
 Description --- Straight 1mm 3P 3mm -40℃~+105℃ 1.8mm 1.27mm Plugin Black Brass 1x3P Plugin,P=1.27mm Pin Headers ROHS
+
+shrouded pins (pin headers)
+xkb Connectors
+https://www.lcsc.com/product-detail/Pin-Headers_XKB-Connection-X6511WV-17H-C60D30_C725949.html
+Manufacturer --- XKB Connection
+Mfr. Part # --- X6511WV-17H-C60D30
+LCSC Part # --- C725949
